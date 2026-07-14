@@ -37,12 +37,12 @@ The Age Verification System is a simple C++ console application that verifies a 
 - Add different age classifications (Child, Teenager, Adult, Senior).
 
 # How to Run the Project
-Step 1: Open the project in Visual Studio Code or any C++ IDE.
-Step 2: Compile the program using a C++ compiler.
-Step 3: Run the program.
-Step 4: Enter your name when prompted.
-Step 5: Enter your age.
-Step 6: View the verification result.
+- Step 1: Open the project in Visual Studio Code or any C++ IDE.
+- Step 2: Compile the program using a C++ compiler.
+- Step 3: Run the program.
+- Step 4: Enter your name when prompted.
+- Step 5: Enter your age.
+- Step 6: View the verification result.
 
 # Sample Output
 ![image alt](https://github.com/bydyna/age-verification-system/blob/3d46c8fe966f5b2817195177c365168b178d1a16/Screenshot%202026-07-14%20231825.png)
